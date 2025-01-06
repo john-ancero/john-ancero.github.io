@@ -504,8 +504,12 @@ section .cards .card {
 .row-team li{
   color:#FFFFFF;
 }
-.about, .services, .portfolio, .contact{
-    background-color: white;
+.about, .services{
+    background-color: #578E7E
+
+}
+.portfolio, .contact{
+    background-color: #B1C29E ;
 }
 .contact .row {
   margin: 60px 0 90px;
