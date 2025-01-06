@@ -504,11 +504,11 @@ section .cards .card {
 .row-team li{
   color:#FFFFFF;
 }
-.about .services{
+.about, .services{
     background-color: #578E7E;
 
 }
-.portfolio .contact{
+.portfolio, .contact{
     background-color: #B1C29E;
 }
 .contact .row {
