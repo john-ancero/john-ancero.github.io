@@ -505,11 +505,11 @@ section .cards .card {
   color:#FFFFFF;
 }
 .about, .services{
-    background-color: #2A3335;
+    background-color: #195061;
 
 }
 .portfolio, .contact{
-    background-color: #2A3335;
+    background-color: #195061;
 }
 .contact .row {
   margin: 60px 0 90px;
