@@ -418,6 +418,7 @@ section h2 {
   font-size: 2rem;
   color:#ebf3fb;
   margin-top: 10px;
+  text-align: center;
 }
 
 section > p {
@@ -548,6 +549,7 @@ section .cards .card {
 }
 .contact p{
   color:#fbf5f5;
+  text-align: center;
 }
 
 .contact form textarea {
